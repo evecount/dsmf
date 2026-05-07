@@ -58,7 +58,17 @@ This structural divergence underpins the **"Flare Gun" Hypothesis of Human-Agent
 *   **The Anomalous Human Trigger:** Any malicious human intervention, no matter how minor, slight, or highly fragmented (such as trying to subtly manipulate a system agent, altering an API query string, or accessing system calls outside of expected contextual baseline bounds), represents a sharp, non-linear perturbation.
 *   **The "Flare Gun" Effect:** Because the baseline system is highly structured, automated, and predictable, the slight human perturbation does not blend into background noise. Instead, it acts like a bright red flare gun shot into a pitch-black night sky. The contrast between predictable agentic execution and erratic human malice becomes glaringly obvious.
 
-By integrating the **Psych-101 Dataset** (tracking human psychological and cognitive decisions in moral dilemma experiments) with the **BETH Dataset** (tracking low-level system process calls), CLEV's hypergraph engine acts as the ultimate receiver for these flare signals. It detects the subtle, cross-domain ripples where human psychological stress or malice first translates into system-level process modifications, catching the precursors of a cascading cyberattack long before a traditional rule-matching firewall or signature detection tool registers a breach.
+### 4.1 Cross-Domain Hyperedges: Psych-101 to BETH Logs
+By utilizing CLEV's hypergraph engine to create **cross-domain hyperedges**, we can explicitly link a seemingly minor cognitive anomaly—like a participant's recorded decision in a moral dilemma (from the **Psych-101 Dataset**) —directly to a subsequent unusual file access or network event (from the **BETH Dataset**). 
+
+This allows CLEV to model **Insider Threat Profiling** and **Social Engineering Impact** by analyzing exactly how human cognitive vulnerabilities and behavioral shifts translate into cascading system events. What might look like a statistically insignificant behavioral quirk on its own becomes a glaring indicator of a malicious attack vector when the DSMF correlates it with a low-probability system anomaly, triggering a highly distinct **"quantum signature"** of an attack.
+
+### 4.2 Pinpointing the Flare Moment via Sigmoid Gradient Descent
+Rather than relying on linear, easily spoofed chronological timestamps, CLEV applies **Sigmoid Gradient Descent as a standardization metric** across these disparate domains. The engine actively seeks out the steepest gradient across the decision boundaries:
+
+$$\text{Steepest Point of Descent} = \max\left( \frac{\partial \sigma^n}{\partial z} \right)$$
+
+This mathematical maximum pinpoints the exact **inflection points** where human behavior and system states undergo transition. This steepest point of descent captures the exact "flare gun" moment—the critical transition boundary where a subtle, non-linear human shift cascades into a full-blown system breach. Under this paradigm, human action is not a noisy, flaky metric; it is the earliest, most sensitive indicator of malicious "tunneling" attacks in highly automated, agentic environments.
 
 ---
 
