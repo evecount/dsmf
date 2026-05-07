@@ -1,5 +1,9 @@
 # The Double Sigmoid Mencius Function (DSMF) & Hybrid Quantum-Classical Intelligence Framework
 
+<p align="center">
+  <img src="assets/dsmf_logo.png" alt="DSMF Logo" width="600">
+</p>
+
 ## 📖 Executive Summary
 This repository houses the formal theoretical documentation, architectural blueprints, and empirical validation for the **Double Sigmoid Mencius Function (DSMF)** and its integration into a Hybrid Classical-Quantum Intelligence architecture. 
 
@@ -27,6 +31,10 @@ The Double Sigmoid Mencius Function (DSMF) stands as a mathematically superior a
 *   **The Micro-Sigmoid Structure:** Unlike simple nesting, the DSMF represents a fractal-like structure where each point within a sigmoid is conceptually composed of micro-sigmoids, denoted as $\sigma^{\sigma}(z)$.
 *   **Causation vs. Correlation:** The framework explicitly distinguishes between these data relationships. Recursion Level ($n$) models sequential causal chains, while the Fractional Derivative ($\alpha$) and Correlation Aperture ($\beta$) track simultaneous, non-local relationships.
 *   **The Hybrid Bridge:** Nesting the DSMF within an average ReLU function ($R(x)$) smooths recursive oscillations, creating a gradual, wave-like pattern that bridges discrete classical systems with continuous quantum behavior.
+
+<p align="center">
+  <img src="assets/operator_cyber_dashboard.png" alt="Cognitive Cybersecurity Dashboard" width="700">
+</p>
 
 ## 🧠 Core Architectural Mechanics
 The architecture replaces opaque neural networks with a structurally stable, mathematically coherent cognitive engine.
