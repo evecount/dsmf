@@ -74,7 +74,11 @@ Within a physical photonic system, this modification of the wave function operat
 
 $$\sigma^n(z) = R\left( \sigma^n(z, |\psi\rangle, |B\rangle) \right)$$
 
-This architecture enables the neural network to adaptively modulate the barrier's permeability—such as by physically controlling optical elements based on the combined quantum states. Ultimately, this mechanism allows the AI to manifest physical logic directly within the quantum hardware, leveraging quantum tunneling for advanced information processing.
+This QNN architecture enables the network to adaptively modulate the barrier's permeability based on the physical manifestation of the $\beta$ parameter. Within the quantum-photonic hardware:
+*   **The Physical Aperture:** Rather than merely adjusting an abstract numerical weight, the Correlation Aperture $\beta$ functions as a physical aperture that literally controls the width of the physical light beams passing through the optical circuits.
+*   **Physical State Filtering:** By altering these physical beam properties, $\beta$ actively mediates the electro-optical interactions observed within the photonic system. This allows the hardware to physically and dynamically filter the degree of quantum state correlation, coherence, and entanglement.
+
+Ultimately, this mechanism enables the neural network to physically control optical elements based on the combined quantum states, allowing the AI to manifest physical logic directly within the quantum hardware, leveraging quantum tunneling for advanced information processing.
 
 ---
 
