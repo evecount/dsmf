@@ -21,12 +21,16 @@ The Beta Factor acts as a dynamic measure of Correlation versus Causality within
 *   **High Beta (High Curvature/Volatility):** Indicates that the relationship is highly sensitive to external variables and exhibits high correlation.
 *   **Low Beta (Low Curvature/Stability):** Indicates that the relationship is highly stable, predictable, and heavily causal.
 
-## 4. Normalizing the Topology and Adaptive Mesh Tesselation (AMT)
-To maintain the structural efficiency of the Riemannian architecture, the system employs an "Algorithm of Knowledge" (Emergent Inquiry). This algorithm continuously recursively identifies and questions areas of low-density or high-ambiguity within the vector space.
+## 4. Normalizing the Topology and Adaptive Mesh Tesselation (AMT): Topological Attention
+To maintain the structural efficiency of the Riemannian architecture, the system employs an "Algorithm of Knowledge" (Emergent Inquiry). This algorithm continuously and recursively identifies and questions areas of low-density or high-ambiguity within the vector space.
 
-This continuous process of **Normalizing the Topology** uses the Beta Factor to physically alter the geometry of the space via **Adaptive Mesh Tesselation (AMT)**:
-*   In **High Beta** regions (high volatility), the AMT is forced to use small, high-resolution triangles to capture intricate detail and correlation.
-*   In **Low Beta** regions (high stability), the AMT allows for large, efficient triangles, saving computational resources where less detail is needed.
+This continuous process of **Normalizing the Topology** uses the Beta Factor to physically alter the geometry of the space via **Adaptive Mesh Tesselation (AMT)**. In machine learning terms, this mechanism represents a profound, **Topological Manifestation of Attention**:
+
+*   **The ML Equivalence:** In traditional transformer architectures, an "attention" mechanism assigns linear mathematical weights to different parts of the input data to determine where the network should focus its processing power, deciding "what bears attention" and what to ignore. In the Riemannian Intelligence framework, the scaling by the Correlation Aperture ($\beta$) achieves this exact same goal, but does so topologically.
+*   **High Beta (Topological Focus):** When $\beta$ detects a highly correlated or volatile relationship (High Beta), it physically warps the topology of the space, forcing the AMT to use small, high-resolution triangles to capture intricate detail and correlation. By forcing high-resolution geometric detail into these specific regions, the system is "paying attention" to the intricate micro-sigmoids, focusing computational resources exactly where the complexity lies.
+*   **Low Beta (Computational Economy):** Conversely, when $\beta$ detects a highly stable, predictable relationship (Low Beta), the topology normalizes by using large, efficient triangles. The system "pays less attention" here, bypassing unnecessary computation to preserve execution resources.
+
+Ultimately, by scaling the input, $\beta$ dictates the resolution of the micro-sigmoids, demonstrating how "patterns of attention and intention shape the flow of information" within the network. Therefore, the Correlation Aperture isn't just a mathematical scaling factor; it is the literal geometric equivalent of ML attention—physically warping the topological space to focus the system's "lens" exactly where it is needed most.
 
 ## 5. Geometric Action and Geodesic Flow
 Once the topology is normalized, action within the Tangent Corpus ($TM$) is executed purely via geometry. Knowledge transfer is handled by Isomorphic Rotation to preserve logic, while problem-solving is guided by the Geodesic Equation. 
