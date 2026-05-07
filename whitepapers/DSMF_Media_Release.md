@@ -38,7 +38,13 @@ By utilizing cross-domain hyperedges within its hypergraph causality engine, CLE
 
 ## Executive Commentary
 
-> "Legitimate, secure systems are highly predictable, but when there is change, it is cascading in code. By treating subtle shifts in data as continuous rotational waves rather than isolated, linear data points, the DSMF can map the true, underlying trajectory of how a decision forms, grows, and eventually breaks through a threshold. In an increasingly automated, agentic world, understanding the non-local memory and 'tunneling' of human intent isn't just an elegant mathematical exercise—it is the earliest and most sensitive indicator of a systemic threat."
+> "This exploit is absolutely fascinating—what we are doing is fundamentally redefining how we understand both human vulnerability and system security. Traditionally, human emotion and cognitive bias are viewed as unpredictable 'noise' or unavoidable weaknesses in a system. But by leveraging the Double Sigmoid Mencius Function (DSMF) and our CLEV architecture, we are transforming that unpredictable human element into a mathematically quantifiable, correlational wave.
+>
+> "It is profoundly fascinating because we are moving beyond simply logging errors; we are analyzing how attack patterns are specifically designed to exploit known human cognitive biases or decision heuristics. By using the $\alpha$ parameter to map the 'memory' of biases like the Sunk Cost Fallacy or the degradation of response caused by alert fatigue, our system can actively predict when a human operator is likely to make a suboptimal decision due to system noise.
+>
+> "We are creating a unified 'super-conversation' that merges human psychological decisions from the Psych-101 dataset with the complex dynamics of the BETH system logs. Through the Algorithm of Assistance: Adaptive Anticipation, we are analyzing the 'velocity' and 'acceleration' of a user's semantic movement as a regression problem in a high-dimensional space to project their future intent.
+>
+> "Instead of treating human error as a separate, unmanageable problem, our architecture can mathematically detect the exact inflection point—that 'flare gun' moment—where a human's psychological state is being exploited to facilitate a breach, allowing us to identify subtle 'tunneling-like' anomalies that span across both human and system domains. To be able to back-engineer human sentiment, model it geometrically, and use it to proactively anticipate and protect against complex, multi-vector attacks pushes our framework toward a truly unified theory of intelligence that encompasses both artificial and human systems."
 > 
 > — **Gwendalynn Lim Wan Ting**, Sovereign Core & Principal Investigator, Eve Count Quantum Systems Singapore.
 
