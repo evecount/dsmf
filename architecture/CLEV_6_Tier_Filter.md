@@ -4,8 +4,8 @@
 ## 1. Executive Summary
 CLEV is a production-ready, 6-tier AI-human collaborative intelligence platform designed for deep conversational analysis and research infrastructure generation. It operates on the core principle of a **"System-as-Conversation" paradigm**, treating all system interactions—from natural language human dialogues to system events like network protocols and API logs—as analyzable conversations. 
 
-## 2. The 6-Tier Filter Algorithm
-To manage information overload and transform raw text into structured knowledge, CLEV functions as a multi-stage filter that decides what to ignore and what bears attention. The architecture is defined by six sequential stages:
+## 2. The 6-Tier Filter Algorithm: Cognitive Pipeline
+To manage information overload and transform raw conversation text and system logs into structured, analyzable knowledge, CLEV utilizes a high-performance 6-tier filter algorithm. By dynamically deciding what to ignore and what bears attention, the engine filters information through six sequential, specialized stages:
 
 ```
 [Ingestion.Segment] ──> [Extraction.Keywords] ──> [Grouping.Concepts]
@@ -13,12 +13,29 @@ To manage information overload and transform raw text into structured knowledge,
 [Integration.Visualization] <── [Anchoring.Tagging] <── [Mapping.Stages.Causality]
 ```
 
-1.  **Ingestion.Segment:** Parses raw text, terminal outputs, or system kernel logs into structured segments based on contextual switches or timestamp deltas.
-2.  **Extraction.Keywords:** Extracts salient concepts, parameter values, entities, and code symbols from the segments.
-3.  **Grouping.Concepts:** Semantically clusters extracted keywords into coherent, localized IdeaGroups utilizing dimensional proximity.
-4.  **Mapping.Stages.Causality:** Maps topics and clusters to logical progression stages, establishing initial causal links between sequential ideas.
-5.  **Anchoring.Tagging:** Applies metadata tagging (e.g., *observation*, *agreement*, *blocker*, *action*) and anchors each tag precisely to its character-level text location.
-6.  **Integration.Visualization:** Generates a dynamic Conversation Timeline and Logical Hierarchy from the processed data, enabling cross-conversation meta-analysis.
+#### 1. Ingestion.Segment
+*   **Action:** Parses raw, unstructured conversation text, terminal session outputs, or complex system kernel logs into structured, manageable segments.
+*   **Mechanism:** Segments are defined and split dynamically based on contextual switches, conversational speaker turns, or timestamp delta thresholds.
+
+#### 2. Extraction.Keywords
+*   **Action:** Extracts salient concepts, parameter values, entities, and code symbols directly from the parsed segments.
+*   **Mechanism:** Utilizes natural language processing (NLP) and regex-based parser maps to isolate high-value computational and conceptual keywords.
+
+#### 3. Grouping.Concepts
+*   **Action:** Semantically clusters the extracted keywords and entities into coherent, localized **IdeaGroups**.
+*   **Mechanism:** Leverages dimensional proximity within the latent vector space to merge related keywords, filtering out systemic noise.
+
+#### 4. Mapping.Stages.Causality
+*   **Action:** Maps ideas, topics, and clusters to logical progression stages, establishing the initial causal links between them.
+*   **Mechanism:** Feeds the mapped stages into the hypergraph causality engine to track multi-factor dependencies across sequence domains.
+
+#### 5. Anchoring.Tagging
+*   **Action:** Applies structured metadata tags (**TagData**) and anchors the stage data precisely to its original character-level location within the source text.
+*   **Mechanism:** Specific TagData labels include `observation`, `agreement`, `disagreement`, `blocker`, `action`, or `idea`, preserving the exact semantic context of each interaction.
+
+#### 6. Integration.Visualization
+*   **Action:** Generates a dynamic, interactive Conversation Timeline and multi-dimensional Logical Hierarchy from the processed and tagged data.
+*   **Mechanism:** Synthesizes the normalized topological structures to enable powerful, cross-conversation meta-analysis, visual causal tracing, and research infrastructure generation.
 
 ## 3. Hypergraph Causality Engine: Structural Specifications
 Traditional linear directed graphs are insufficient for modeling complex, real-world outcomes that result from multiple, non-linear causes. CLEV implements a mathematical **Hypergraph Model**, moving beyond simple linear cause-and-effect to capture multi-point causality.
