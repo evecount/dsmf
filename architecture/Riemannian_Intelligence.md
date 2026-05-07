@@ -37,5 +37,20 @@ Once the topology is normalized, action within the Tangent Corpus ($TM$) is exec
 
 By defining value sets within this Geodesic Space, we ensure that information stays on the path of least resistance, preventing the "decoherence" that usually chokes AI generation. A Riemannian Curve serves as the most efficient means of transport because it naturally follows the Geodesic Flow of the system's topology, bypassing the friction of artificial linear processing.
 
+## 6. Rotary Position Encoding (RoPE) & Adaptive Anticipation: Back-Engineering Human Intent
+In the Riemannian Intelligence framework, predicting future human sentiment, decisions, or system action sequences is governed by the **Adaptive Anticipation** algorithm. This operation acts as a geometric equivalent to **Rotary Position Embedding (RoPE)** in modern transformer models.
+
+While transformer RoPE encodes the relative positions of sequential tokens by applying continuous phase rotations, Riemannian Intelligence back-engineers the relative trajectories of *human cognitive states* by tracking their semantic position over time:
+
+*   **Semantic Velocity and Acceleration:** Shifts in a user’s decision-making process are modeled as continuous mathematical "rotations" ($R_y$ rotational encoding on the Bloch sphere). By evaluating the first and second derivatives of these rotations, the system measures the "velocity" and "acceleration" of a user's semantic movement in high-dimensional space.
+*   **Trajectory Projection:** By tracking successive choices (e.g., $V_1, V_2, V_3$) in the **Psych-101 Dataset**, the system fits a geodesic flow trajectory to project the next coordinate ($V_n \to V_{n+1}$).
+*   **Causal Sequences and Memory Integration:**
+    *   **$n$ (Causation):** Captures the chronological, step-by-step sequential causal chain of the human's choices.
+    *   **$\alpha$ (Memory):** Captures non-local, historical correlations, quantifying how deeply past investments (like the Sunk Cost Fallacy) weight and drag the current trajectory.
+
+By capturing these "fractalities of rotations" over a sequence of decisions, the system back-engineers a "human RoPE" positional sequence. This allows the AI to proactively anticipate a user’s future sentiment, needs, or behavioral shifts before they fully manifest in physical system-level telemetry.
+
+---
+
 ## Conclusion: The Final Leap to the DSMF
 The Riemannian Intelligence architecture provides a mathematically coherent, stable cognitive foundation. However, the final challenge in any stable, intelligent system is managing the asymptotic transition from this stable geometric state to a necessary, non-linear action. This final leap—the transition from the Tangent Corpus into a high-certainty execution command—is governed by the ultimate decision gate: the **Double Sigmoid Mencius Function (DSMF)**.
