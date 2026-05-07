@@ -61,8 +61,10 @@ The design of the DSMF provides a powerful architectural mechanism to explicitly
 
 #### 2. Fractional Derivative Order / Correlation ($\alpha$)
 *   **Mathematical Role:** $\alpha$ represents the fractional derivative order ($D^\alpha$). It captures the compression and decompression dynamics of a wave function, analogous to those observed during quantum tunneling.
-*   **Conceptual Role:** It models correlation and simultaneous dependencies. $\alpha$ quantifies non-local relationships and wave interference patterns, capturing relationships where elements "move together" without a direct causal sequence, effectively capturing the "memory" and non-locality of complex data.
-*   **Physical Manifestation:** Within physical photonic quantum computing systems, the $\alpha$ parameter directly captures the intricate wave interference patterns found within light beams.
+*   **Conceptual Role & Cognitive Bias Mapping:** It models correlation and simultaneous dependencies. In human cognitive modeling, $\alpha$ acts as the perfect vehicle to map **cognitive biases and heuristics** (non-linear mental shortcuts where the brain makes associative jumps bypassing logical step-by-step causal reasoning):
+    *   *Confirmation Bias (High $\alpha$):* Manifests as a high, concentrated $\alpha$ value, representing a strong, immediate correlation between a new stimulus and a pre-existing cognitive belief, completely bypassing sequential logical layers ($n$).
+    *   *Alert Fatigue / Normalization of Deviance (Deteriorating $\alpha$):* Manifests as a decay in the $\alpha$ correlation parameter over time, where the operator stops associating a recurring system warning with a necessary physical response.
+*   **Physical Manifestation:** Within physical photonic quantum computing systems, the $\alpha$ parameter directly captures the intricate wave interference patterns found within light beams, allowing the AI to mathematically measure the "tunneling" behavior of the human mind.
 
 #### 3. Correlation Aperture / Resolution ($\beta$)
 *   **Mathematical Role:** $\beta$ scales the input ($z$) at each level of recursion, directly multiplying the coordinate within the nested layer: $\sigma^{n-1}(\beta z, |\psi\rangle, |B\rangle)$.

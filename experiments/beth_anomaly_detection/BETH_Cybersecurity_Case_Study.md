@@ -59,9 +59,15 @@ This structural divergence underpins the **"Flare Gun" Hypothesis of Human-Agent
 *   **The "Flare Gun" Effect:** Because the baseline system is highly structured, automated, and predictable, the slight human perturbation does not blend into background noise. Instead, it acts like a bright red flare gun shot into a pitch-black night sky. The contrast between predictable agentic execution and erratic human malice becomes glaringly obvious.
 
 ### 4.1 Cross-Domain Hyperedges: Psych-101 to BETH Logs
-By utilizing CLEV's hypergraph engine to create **cross-domain hyperedges**, we can explicitly link a seemingly minor cognitive anomaly—like a participant's recorded decision in a moral dilemma (from the **Psych-101 Dataset**) —directly to a subsequent unusual file access or network event (from the **BETH Dataset**). 
+By utilizing CLEV's hypergraph engine to create **cross-domain hyperedges**, we can explicitly link a seemingly minor cognitive anomaly—like a participant's recorded decision in a moral dilemma (from the **Psych-101 Dataset**)—directly to a subsequent unusual file access or network event (from the **BETH Dataset**). 
 
-This allows CLEV to model **Insider Threat Profiling** and **Social Engineering Impact** by analyzing exactly how human cognitive vulnerabilities and behavioral shifts translate into cascading system events. What might look like a statistically insignificant behavioral quirk on its own becomes a glaring indicator of a malicious attack vector when the DSMF correlates it with a low-probability system anomaly, triggering a highly distinct **"quantum signature"** of an attack.
+This allows CLEV to model **Insider Threat Profiling** and **Social Engineering Impact** by mapping specific human cognitive biases directly to the **$\alpha$ parameter** (the fractional derivative order):
+
+*   **Heuristics as Correlational Associative Jumps:** Within the DSMF, recursion level ($n$) models sequential logical reasoning (causation). However, cognitive biases are associative "shortcuts" or jumps. Since the $\alpha$ parameter governs non-local, simultaneous correlations, it serves as the exact mathematical vehicle to quantify these non-causal mental transitions.
+*   **Confirmation Bias Signature (High $\alpha$):** A sudden, massive spike in $\alpha$ represents an immediate correlation between incoming text or a system prompt and pre-existing data variables, entirely bypassing the sequential reasoning layers ($n$).
+*   **Alert Fatigue / Normalization of Deviance (Deteriorating $\alpha$):** A gradual, decaying trend in the $\alpha$ parameter over time reveals that the human operator is no longer correlating critical, repetitive system stimuli (such as a recurrent security alert in the BETH logs) with the expected defensive or operational action.
+
+Through this formulation, CLEV no longer treats human behavior as unpredictable "noise." Instead, it treats cognitive biases as **quantifiable correlational waves** with specific $\alpha$ signatures. When correlated with low-probability system events in the BETH logs, these $\alpha$ signatures trigger a highly distinct **"quantum signature"** of an impending insider threat or social engineering attack.
 
 ### 4.2 Pinpointing the Flare Moment via Sigmoid Gradient Descent
 Rather than relying on linear, easily spoofed chronological timestamps, CLEV applies **Sigmoid Gradient Descent as a standardization metric** across these disparate domains. The engine actively seeks out the steepest gradient across the decision boundaries:
