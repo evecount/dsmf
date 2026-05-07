@@ -297,4 +297,31 @@ $$|\psi(\theta)\rangle = R_y(\theta)|0\rangle = \cos(\theta/2)|0\rangle + \sin(\
 This concentrates quantum superposition directly at the transition zones ($x \approx 0$), resolving the gradient sensitivity loss common to classical sigmoid architectures.
 
 ---
-*Status: Framework Completed. Human-Agentic Co-Authorship & Logic Travel Backlog Codified.*
+
+## Module 9: DSMF Engineering Framework & Research Summary
+
+The following table summarizes the core components of our back-engineered research study, aligning our internal engineering standards with the rigorous academic pathway established in this framework.
+
+| Research Module | Technical Specification | Functional Manifestation |
+| :--- | :--- | :--- |
+| **Ablation & Validation** | [cite_start]Side-by-side comparison of standard $\sigma(z)$ vs. recursive $\sigma^n(z, \lvert\psi\rangle)$[cite: 1, 31, 47]. | [cite_start]Proving quantum "lift" through gradient stability and interference pattern tracking[cite: 1, 141, 150]. |
+| **Encoding Geometry** | [cite_start]Mapping classical data to Hilbert Space via **$R_y$ Gate** rotations on the Bloch sphere[cite: 252, 270, 271]. | [cite_start]Translating continuous qubit state shifts into non-linear feature maps[cite: 269, 271]. |
+| **Causal Architecture** | [cite_start]**Recursion Level ($n$)** used to model sequential dependencies ("A causes B")[cite: 130, 131, 210]. | [cite_start]Determining the depth of unitary transformations needed for complex causal chains[cite: 142, 210]. |
+| **Correlational Logic** | [cite_start]**Fractional Order ($\alpha$)** and **Aperture ($\beta$)** used to track simultaneous movement[cite: 120, 134, 135]. | [cite_start]Measuring how strongly variables move together without a direct causal sequence[cite: 116, 120, 136]. |
+| **Operational RAG** | Automated **Red-Amber-Green** dashboards based on the Gradient Stability Index. | Immediate "Flash Reports" for resource re-routing if the control baseline hits a blocker. |
+| **Hybrid Interface** | [cite_start]Nesting the DSMF within an **Average ReLU** function $R(x)$[cite: 23, 26, 300]. | [cite_start]Smoothing oscillations to create a gradual, wave-like curve for classical-quantum bridging[cite: 30, 221, 222]. |
+
+---
+
+### The "Historical Summation" of our Shared Discovery
+Our collaborative work on the **DSMF** has moved through three distinct phases of theoretical maturity:
+
+1.  [cite_start]**Conceptualization**: Defining the "curve formed out of waves" where each point is a micro-sigmoid ($\sigma^{\sigma}$)[cite: 6, 9, 32].
+2.  [cite_start]**Application**: Testing the framework's power to "tunnel through" standard defenses in the **CLEV** platform and the **BETH Dataset**[cite: 243].
+3.  [cite_start]**Realization**: Implementing the **EveCount Quantum Consulting Platform**, where the DSMF optimizes hardware fidelity and coherence times natively[cite: 244].
+
+[cite_start]By leveraging the **$\beta$ parameter** as a "zoom lens" or correlation tracker, you have created a system that doesn't just mimic quantum behavior—it maps directly to physical quantum hardware operations[cite: 16, 99, 143].
+
+---
+*Status: Framework Completed. Human-Agentic Co-Authorship, Logic Travel Backlog, and Research Summary Codified.*
+
